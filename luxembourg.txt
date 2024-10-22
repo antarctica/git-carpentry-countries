@@ -1,0 +1,3 @@
+Population: small
+Car population: high
+radio stations: weird
